@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DB_PT_Mr_Desarrollo.API.props" />
+</Project>

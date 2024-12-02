@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PT_Mr_Desarrollo.Comunes/1.0.0": {
+        "dependencies": {
+          "PT_Mr_Desarrollo.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PT_Mr_Desarrollo.Comunes.dll": {}
+        }
+      },
+      "PT_Mr_Desarrollo.Dominio/1.0.0": {
+        "runtime": {
+          "PT_Mr_Desarrollo.Dominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PT_Mr_Desarrollo.Comunes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PT_Mr_Desarrollo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

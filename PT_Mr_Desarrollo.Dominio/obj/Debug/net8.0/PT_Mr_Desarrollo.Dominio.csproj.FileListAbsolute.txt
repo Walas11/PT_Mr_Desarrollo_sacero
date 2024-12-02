@@ -1,0 +1,12 @@
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\bin\Debug\net8.0\PT_Mr_Desarrollo.Dominio.deps.json
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\bin\Debug\net8.0\PT_Mr_Desarrollo.Dominio.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\bin\Debug\net8.0\PT_Mr_Desarrollo.Dominio.pdb
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.AssemblyInfoInputs.cache
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.AssemblyInfo.cs
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.csproj.CoreCompileInputs.cache
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.sourcelink.json
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\refint\PT_Mr_Desarrollo.Dominio.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\PT_Mr_Desarrollo.Dominio.pdb
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Dominio\obj\Debug\net8.0\ref\PT_Mr_Desarrollo.Dominio.dll

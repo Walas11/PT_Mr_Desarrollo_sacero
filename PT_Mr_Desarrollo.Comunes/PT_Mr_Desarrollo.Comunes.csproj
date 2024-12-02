@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Constants\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PT_Mr_Desarrollo.Dominio\PT_Mr_Desarrollo.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>

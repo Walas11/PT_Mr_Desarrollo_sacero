@@ -1,0 +1,50 @@
+﻿@model PT_Mr_Desarrollo.Infraestructura.DataBase.Entities.UsuarioEntity.UsuarioEntity
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Usuario</title>
+    <link href="/Boostrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Crear Nuevo Usuario</h2>
+
+        <form method="post" asp-action="Create" asp-controller="Home">
+            <div class="form-group">
+                <label for="NombreCompleto">Nombre Completo</label>
+                <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" required />
+            </div>
+
+            <div class="form-group">
+                <label for="TipoDocumento">Tipo de Documento</label>
+                <input type="text" class="form-control" id="TipoDocumento" name="TipoDocumento" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Documento">Documento</label>
+                <input type="number" class="form-control" id="Documento" name="Documento" required />
+            </div>
+
+            <div class="form-group">
+                <label for="FechaNacimiento">Fecha de Nacimiento</label>
+                <input type="date" class="form-control" id="FechaNacimiento" name="FechaNacimiento" required />
+            </div>
+
+            <div class="form-group">
+                <label for="ValorGanar">Valor a Ganar</label>
+                <input type="number" class="form-control" id="ValorGanar" name="ValorGanar" step="0.01" />
+            </div>
+
+            <div class="form-group">
+                <label for="EstadoCivil">Estado Civil</label>
+                <input type="text" class="form-control" id="EstadoCivil" name="EstadoCivil" />
+            </div>
+
+            <button type="submit" class="btn btn-primary mt-3">Crear Usuario</button>
+        </form>
+    </div>
+</body>
+</html>

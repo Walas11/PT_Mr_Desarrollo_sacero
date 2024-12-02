@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PT_Mr_Desarrollo_sacero.props" />
+</Project>

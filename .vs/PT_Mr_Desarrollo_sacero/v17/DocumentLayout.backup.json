@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo_sacero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|solutionrelative:pt_mr_desarrollo_sacero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo_sacero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|solutionrelative:pt_mr_desarrollo_sacero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo_sacero\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|solutionrelative:pt_mr_desarrollo_sacero\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo_sacero\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|solutionrelative:pt_mr_desarrollo_sacero\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo_sacero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81E7342-FD4F-4CE4-9C40-9BAB6B2F6B62}|PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero.csproj|solutionrelative:pt_mr_desarrollo_sacero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851E8D96-F0AA-4DCB-B11A-F8D61B528131}|PT_Mr_Desarrollo.Infraestructura\\PT_Mr_Desarrollo.Infraestructura.csproj|c:\\repositorios\\pt_mr_desarrollo_sacero\\pt_mr_desarrollo.infraestructura\\database\\entities\\usuario\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851E8D96-F0AA-4DCB-B11A-F8D61B528131}|PT_Mr_Desarrollo.Infraestructura\\PT_Mr_Desarrollo.Infraestructura.csproj|solutionrelative:pt_mr_desarrollo.infraestructura\\database\\entities\\usuario\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo_sacero\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PT_Mr_Desarrollo_sacero\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:28:10.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo_sacero\\Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "PT_Mr_Desarrollo_sacero\\Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T15:13:59.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo.Infraestructura\\DataBase\\Entities\\Usuario\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo.Infraestructura\\DataBase\\Entities\\Usuario\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo.Infraestructura\\DataBase\\Entities\\Usuario\\UsuarioEntity.cs",
+              "RelativeToolTip": "PT_Mr_Desarrollo.Infraestructura\\DataBase\\Entities\\Usuario\\UsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:07:10.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Program.cs",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo_sacero\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Program.cs",
+              "RelativeToolTip": "PT_Mr_Desarrollo_sacero\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:38:10.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo_sacero\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PT_Mr_Desarrollo_sacero\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:06:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PT_Mr_Desarrollo_sacero\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Repositorios\\PT_Mr_Desarrollo_sacero\\PT_Mr_Desarrollo_sacero\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "PT_Mr_Desarrollo_sacero\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T15:00:14.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

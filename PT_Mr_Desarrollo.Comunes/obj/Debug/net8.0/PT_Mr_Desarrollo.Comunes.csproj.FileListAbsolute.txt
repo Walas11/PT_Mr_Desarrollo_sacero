@@ -1,0 +1,16 @@
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\bin\Debug\net8.0\PT_Mr_Desarrollo.Comunes.deps.json
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\bin\Debug\net8.0\PT_Mr_Desarrollo.Comunes.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\bin\Debug\net8.0\PT_Mr_Desarrollo.Comunes.pdb
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.AssemblyInfoInputs.cache
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.AssemblyInfo.cs
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.csproj.CoreCompileInputs.cache
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.sourcelink.json
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\refint\PT_Mr_Desarrollo.Comunes.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.pdb
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\ref\PT_Mr_Desarrollo.Comunes.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\bin\Debug\net8.0\PT_Mr_Desarrollo.Dominio.dll
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\bin\Debug\net8.0\PT_Mr_Desarrollo.Dominio.pdb
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_Desarrollo.Comunes.csproj.AssemblyReference.cache
+C:\Repositorios\PT_Mr_Desarrollo_sacero\PT_Mr_Desarrollo.Comunes\obj\Debug\net8.0\PT_Mr_De.99E66A08.Up2Date

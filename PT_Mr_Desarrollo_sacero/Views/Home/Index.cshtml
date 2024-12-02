@@ -2,7 +2,76 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@model IEnumerable<PT_Mr_Desarrollo.Infraestructura.DataBase.Entities.UsuarioEntity.UsuarioEntity>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Usuario</title>
+    <link href="/Boostrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <div class="container mt-4">
+
+        <h2>Gestión de Usuarios</h2>
+
+        <!-- Botón para crear un nuevo usuario -->
+        <a href="/Home/CreateUser" class="btn btn-success mb-3">Crear Nuevo Usuario</a>
+
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre Completo</th>
+                    <th>Tipo Documento</th>
+                    <th>Documento</th>
+                    <th>Fecha Nacimiento</th>
+                    <th>Valor a Ganar</th>
+                    <th>Estado Civil</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var usuario in Model)
+                {
+                    <tr>
+                        <td>@usuario.ID</td>
+                        <td>@usuario.NombreCompleto</td>
+                        <td>@usuario.TipoDocumento</td>
+                        <td>@usuario.Documento</td>
+                        <td>@usuario.FechaNacimiento.ToString("yyyy-MM-dd")</td>
+                        <td>@usuario.ValorGanar?.ToString("C")</td>
+                        <td>@usuario.EstadoCivil</td>
+                        <td>
+                            <a href="/Home/Edit/@usuario.ID" class="btn btn-primary btn-sm">Editar</a>
+                            <a href="javascript:void(0);" class="btn btn-danger btn-sm" onclick="confirmDelete(@usuario.ID)">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function confirmDelete(usuarioId) {
+            Swal.fire({
+                title: '¿Estás seguro?',
+                text: "¡No podrás revertir esta acción!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Sí, eliminar',
+                cancelButtonText: 'Cancelar',
+                reverseButtons: true
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    // Si el usuario confirma, redirige a la acción de eliminación
+                    window.location.href = '/Home/Index/' + usuarioId;
+                }
+            });
+        }
+    </script>
+</body>
+</html>

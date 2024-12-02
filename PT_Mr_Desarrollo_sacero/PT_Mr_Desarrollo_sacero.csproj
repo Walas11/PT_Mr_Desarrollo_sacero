@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PT_Mr_Desarrollo.Comunes\PT_Mr_Desarrollo.Comunes.csproj" />
+    <ProjectReference Include="..\PT_Mr_Desarrollo.Dominio\PT_Mr_Desarrollo.Dominio.csproj" />
+    <ProjectReference Include="..\PT_Mr_Desarrollo.Infraestructura\PT_Mr_Desarrollo.Infraestructura.csproj" />
+  </ItemGroup>
+
 </Project>
