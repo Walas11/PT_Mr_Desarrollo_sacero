@@ -2,8 +2,15 @@
 
 Manual
 
-Para correr el proyecto unicamente se debe descragar los nugetsque se muestran acontinuación:
+El proyecto es un CRUD simple dividido en capas para mejorar la flexibilidad, mantebilidad, escalabilidad, Desarrollo más organizado / estructurado, desacoplamiento, integración con otros sistemas, Control de versiones, despliegues más fáciles y Desarrollo más organizado y estructurado.
 
+Por esta parte se realizó una integración con EntityFramework para mayor facilidad de integración con el motor de base de datos sin embargo no es la unica manera, también puede realizarse un SP (stored Procedure) en el cual dependiendo de un valor ingresado realice una acción como consultar, eliminar, actualizar o crear. Por motivos de rapidez se precisa entity framework.
+
+NOTA: LA PARTE DE BOOSTRAB NO LA ALCANCÉ A REALIZAR PERO SE ENCUENTRA EN EL PROYECTO.
+
+-- ------------------------------------------------------------------------------------------ --
+Para correr el proyecto unicamente se debe descragar los nugetsque se muestran acontinuación:
+-- ------------------------------------------------------------------------------------------ --
 
 -- ----------------------------- --
 -- Paquetes de nuget a descargar --
