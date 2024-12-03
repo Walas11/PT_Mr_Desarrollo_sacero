@@ -6,7 +6,7 @@ El proyecto es un CRUD simple dividido en capas para mejorar la flexibilidad, ma
 
 Por esta parte se realizó una integración con EntityFramework para mayor facilidad de integración con el motor de base de datos sin embargo no es la unica manera, también puede realizarse un SP (stored Procedure) en el cual dependiendo de un valor ingresado realice una acción como consultar, eliminar, actualizar o crear. Por motivos de rapidez se precisa entity framework.
 
-NOTA: LA PARTE DE BOOSTRAB NO LA ALCANCÉ A REALIZAR PERO SE ENCUENTRA EN EL PROYECTO.
+NOTA: LA PARTE DE BOOSTRAB NO LA ALCANCÉ A REALIZAR PERO SE ENCUENTRA EN EL PROYECTO. -Perdón si no puse como ID el documento en la tabla, el corre corre y el tiempo me hicieron pensar en una solución rapida 😥
 
 -- ------------------------------------------------------------------------------------------ --
 Para correr el proyecto unicamente se debe descragar los nugetsque se muestran acontinuación:
